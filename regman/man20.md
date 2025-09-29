@@ -1,4 +1,4 @@
-# RégimA Manual 2020 Distribution Guide
+# RégimA Manual 2020
 ## Source Guide
 ## Table of Contents
 
