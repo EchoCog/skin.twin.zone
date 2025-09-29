@@ -1,0 +1,68 @@
+// Tinosorb S - Advanced UV Filter from RégimA Manual 2020
+// INCI: Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine
+{
+  "inci_name": "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+  "common_name": "Tinosorb S",
+  "trade_name": "Tinosorb S",
+  "source": "Synthetic broad spectrum UV filter",
+  "molecular_weight": "627.8 Da",
+  "concentration_range": "1.0-10.0%",
+  "ph_range": "3.0-8.0",
+  "solubility": "Oil soluble",
+  "function": [
+    "Broad spectrum UVA/UVB protection",
+    "Photostable triazine derivative",
+    "Very high photostability",
+    "Minimal skin penetration",
+    "Excellent UV absorption"
+  ],
+  "benefits": [
+    "Superior photostability",
+    "Broad spectrum protection",
+    "Exceptionally low skin penetration",
+    "High SPF efficacy at low concentrations",
+    "Compatible with all UV filters"
+  ],
+  "compatibility": {
+    "synergistic": ["Uvinul A Plus", "Uvinul T150", "Zinc Oxide", "Avobenzone"],
+    "avoid": ["None known - highly compatible"],
+    "ph_stability": "3.0-9.0"
+  },
+  "safety_rating": "Excellent - Minimal systemic absorption",
+  "skin_types": ["All skin types", "Ideal for sensitive and children's formulations"],
+  "contraindications": [
+    "None known - excellent tolerance profile"
+  ],
+  "regima_category": "DAILY_PROTECTION",
+  "triadic_level": "Λ²_adaptive_protection",
+  "cognitive_function": "Provides reliable, stable protection adapting to varying UV intensities",
+  "application_protocol": {
+    "morning_use": "Apply as part of broad spectrum sun protection",
+    "reapplication": "Maintains protection throughout day",
+    "frequency": "Daily use recommended"
+  },
+  "clinical_efficacy": {
+    "uv_absorption": "Covers UVB (280-320nm) and UVA (320-400nm)",
+    "photostability": "Exceptional - no degradation under UV exposure",
+    "spf_contribution": "High SPF values at moderate concentrations",
+    "water_resistance": "Excellent water resistance properties"
+  },
+  "formulation_notes": {
+    "optimal_concentration": "2.0-8.0% depending on desired SPF",
+    "oil_phase_addition": "Dissolve in oil phase at room temperature",
+    "temperature_stability": "Stable up to 100°C",
+    "particle_size": "Micronized for optimal skin feel"
+  },
+  "regulatory_status": {
+    "eu_approval": "Approved up to 10%",
+    "fda_approval": "Not yet approved (pending)",
+    "australia_approval": "TGA approved",
+    "other_markets": "Approved in many international markets"
+  },
+  "environmental_profile": {
+    "reef_safety": "Considered reef-safe",
+    "biodegradability": "Low environmental persistence",
+    "aquatic_toxicity": "Low toxicity to marine life"
+  },
+  "pricing_zar": "3250.00/kg"
+}

@@ -1,0 +1,71 @@
+// 24-Hour Chronoactive - Advanced Antioxidant from RégimA Manual 2020
+// INCI: Diisopropyl Sebacate (and) Caprylic/Capric Triglyceride (and) Diethylhexyl Syringylidenemalonate
+{
+  "inci_name": "Diisopropyl Sebacate (and) Caprylic/Capric Triglyceride (and) Diethylhexyl Syringylidenemalonate",
+  "common_name": "24-Hour Chronoactive",
+  "trade_name": "Chronoactive",
+  "source": "Synthetic chronobiological antioxidant complex",
+  "molecular_weight": "~450 Da",
+  "concentration_range": "0.1-2.0%",
+  "ph_range": "4.0-7.0",
+  "solubility": "Oil soluble",
+  "function": [
+    "24-hour continuous antioxidant protection",
+    "Circadian rhythm optimization",
+    "Daytime oxidative stress reduction",
+    "Nighttime free radical defense",
+    "UV filter photostabilization"
+  ],
+  "benefits": [
+    "Prevents premature skin aging continuously 24 hours",
+    "Dims oxidative stress from solar spectrum during day",
+    "Provides prolonged nighttime protection from free radicals",
+    "Builds skin's antioxidant defense mechanisms",
+    "Extends protection beyond UV exposure cessation"
+  ],
+  "compatibility": {
+    "synergistic": ["All UV filters", "Vitamin E", "Vitamin C", "Other antioxidants"],
+    "avoid": ["Strong oxidizing agents", "Heavy metals"],
+    "ph_stability": "4.0-7.5"
+  },
+  "safety_rating": "Excellent - Biomimetic antioxidant action",
+  "skin_types": ["All skin types", "Particularly beneficial for environmentally stressed skin"],
+  "contraindications": [
+    "None known - excellent tolerance"
+  ],
+  "regima_category": "DAILY_PROTECTION",
+  "triadic_level": "Λ³_synergistic_emergence",
+  "cognitive_function": "Creates emergent 24-hour protection cycle mimicking natural circadian rhythms",
+  "application_protocol": {
+    "morning_use": "Apply in morning formulations for all-day protection",
+    "evening_benefit": "Continues protective action overnight",
+    "frequency": "Daily use provides cumulative benefits"
+  },
+  "clinical_efficacy": {
+    "oxidative_stress_reduction": "Continuous protection for 24+ hours",
+    "acne_improvement": "25% reduction in inflammation after 8 weeks",
+    "sebum_regulation": "20% reduction in oiliness after 8 weeks",
+    "free_radical_scavenging": "Equivalent to tocopherol with superior stability"
+  },
+  "formulation_notes": {
+    "optimal_concentration": "0.5-1.0% for daily protection",
+    "oil_phase_addition": "Add to oil phase, compatible with all UV filters",
+    "temperature_stability": "Stable up to 85°C",
+    "light_protection": "Enhances photostability of other ingredients"
+  },
+  "circadian_benefits": {
+    "day_protection": "Active against solar-induced oxidative stress",
+    "night_repair": "Supports overnight skin repair mechanisms",
+    "cumulative_effect": "Builds natural antioxidant capacity over time",
+    "photoprotective_synergy": "Enhances UV filter performance"
+  },
+  "incorporated_into": [
+    "Daily Ultra Defence + β-Endorphin Stimulator",
+    "Sensorial Daily Protector + β-Endorphin Stimulator"
+  ],
+  "regulatory_status": {
+    "cosmetic_approval": "Approved for cosmetic use globally",
+    "safety_testing": "Extensive safety and efficacy testing completed"
+  },
+  "pricing_zar": "4500.00/100g"
+}
