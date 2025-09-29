@@ -116,6 +116,11 @@ export function FileIcon({ filename, size = 'md', className }: FileIconProps) {
       return 'i-ph:file-text';
     }
 
+    // Formulation files
+    if (['form'].includes(extension)) {
+      return 'i-ph:file-text';
+    }
+
     // Image files
     if (['jpg', 'jpeg', 'png', 'gif', 'bmp', 'webp', 'ico', 'tiff'].includes(extension)) {
       return 'i-ph:file-image';
@@ -274,6 +279,11 @@ export function FileIcon({ filename, size = 'md', className }: FileIconProps) {
 
     if (['txt'].includes(extension)) {
       return 'text-gray-500';
+    }
+
+    // Formulation files
+    if (['form'].includes(extension)) {
+      return 'text-purple-500';
     }
 
     // Image files
