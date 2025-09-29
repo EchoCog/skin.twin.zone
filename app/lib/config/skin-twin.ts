@@ -12,6 +12,10 @@ export const skinTwinCapabilities = {
   chemicalReactionSimulation: true,
   safetyAssessment: true,
   productDevelopment: true,
+  triadicArchitecture: true,
+  emergentPropertyGeneration: true,
+  dermalRelevanceOptimization: true,
+  vesselStateTracking: true,
 };
 
 // SKIN-TWIN UI customization
