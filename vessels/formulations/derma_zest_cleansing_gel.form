@@ -1,0 +1,118 @@
+// RégimA Derma Zest Cleansing + Toning Gel Formulation
+// Advanced Cognitive Formulation Protocol with Triadic Architecture
+formulation_id: "REG-DZCT-001"
+product_name: "Derma Zest Cleansing + Toning Gel"
+vessel_type: "Virtual_Turbo_Reactor_RégimA"
+temperature: 25°C
+ph_target: 5.2
+cognitive_category: "ZONE_TRAINING"
+triadic_level: "Λ¹_barrier_simulation"
+
+// Phase A - Aqueous Base (Water Phase)
+phase_a: {
+  sequence: 1,
+  temperature: "65°C",
+  components: {
+    "Purified Water": "68.5%",
+    "Glycerin": "8.0%", 
+    "Sodium Lauroyl Sarcosinate": "12.0%",  // Gentle surfactant
+    "Cocamidopropyl Betaine": "5.0%"       // Conditioning agent
+  },
+  reaction: "H2O + surfactants → micelle_formation",
+  vessel_color: "clear → slightly cloudy",
+  cognitive_function: "Establishes foundation for barrier-compatible cleansing"
+}
+
+// Phase B - Active Botanical Complex  
+phase_b: {
+  sequence: 2,
+  temperature: "25°C",
+  components: {
+    "Ruby Star Grapefruit Extract": "3.0%",
+    "Bisabolol": "0.5%",
+    "Geranium Extract": "1.5%",
+    "Rosemary Extract": "1.0%",
+    "Lavender Extract": "0.8%"
+  },
+  reaction: "botanical_actives + aqueous_phase → synergistic_complex",
+  vessel_color: "cloudy → light amber",
+  cognitive_function: "Introduces adaptive plant intelligence for skin recognition"
+}
+
+// Phase C - pH Adjustment & Preservation
+phase_c: {
+  sequence: 3, 
+  temperature: "35°C",
+  components: {
+    "Citric Acid": "q.s. pH 5.2",
+    "Phenoxyethanol": "0.8%",
+    "Ethylhexylglycerin": "0.2%"
+  },
+  reaction: "pH_adjustment + preservation → stable_formulation",
+  vessel_color: "amber → golden amber",
+  cognitive_function: "Optimizes pH for skin barrier compatibility and microbial safety"
+}
+
+// Mixing Protocol with Cognitive Monitoring
+mixing_sequence: [
+  "Heat Phase A components to 65°C with gentle stirring",
+  "Cool to 40°C while maintaining homogenization", 
+  "Add Phase B botanicals at room temperature",
+  "Mix for 15 minutes to ensure complete integration",
+  "Add Phase C components at 35°C",
+  "Adjust pH to exactly 5.2 ± 0.1",
+  "Cool to room temperature with continued mixing",
+  "Test cognitive response: should feel silky, non-stripping"
+]
+
+// Triadic Architecture Integration
+triadic_emergence: {
+  barrier_level: "Maintains lipid barrier integrity while deep cleansing",
+  adaptive_level: "Botanical complex adapts to individual skin needs", 
+  synergistic_level: "Emergent toning effect without alcohol drying"
+}
+
+// Quality Control & Cognitive Validation
+qc_protocols: {
+  ph_test: "5.1-5.3 range required",
+  viscosity: "Low foam, gel-like consistency",
+  cognitive_test: "Should leave skin feeling clean, toned, not tight",
+  color_stability: "Golden amber color maintained",
+  microbial_challenge: "USP <51> preservative efficacy"
+}
+
+// Usage Protocol Based on RégimA Manual
+application_instructions: [
+  "Apply to damp skin using gentle circular motions",
+  "Allow active botanicals 30-60 seconds skin contact",
+  "Rinse thoroughly with lukewarm water",
+  "Pat dry - skin should feel toned and prepared",
+  "Follow with appropriate RégimA treatment products"
+]
+
+// Expected Cognitive Outcomes
+expected_results: {
+  immediate: "Clean, refreshed skin without tightness",
+  "1_week": "Improved pore appearance and oil regulation",
+  "2_weeks": "Enhanced skin texture and clarity", 
+  "4_weeks": "Optimized skin barrier function and resilience"
+}
+
+// Safety & Contraindications
+safety_profile: {
+  skin_types: "All types, especially oily and combination",
+  patch_test: "Recommended for sensitive skin",
+  contraindications: [
+    "Active skin infections",
+    "Open wounds or severe irritation",
+    "Known sensitivity to citrus extracts"
+  ]
+}
+
+// Manufacturing Notes
+manufacturing: {
+  batch_size: "Standard 100kg production batch",
+  stability_testing: "36 months accelerated aging required",
+  packaging: "UV-protective bottles recommended",
+  storage: "Cool, dry conditions, 15-25°C"
+}

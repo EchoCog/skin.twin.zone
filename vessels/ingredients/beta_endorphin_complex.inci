@@ -1,0 +1,49 @@
+// Beta-Endorphin Complex - Advanced Bioactive from RégimA β-Endorphin Stimulator
+// INCI: Synthetic Beta-Endorphin (Biomimetic Peptide Complex)
+{
+  "inci_name": "Acetyl Hexapeptide-30",
+  "common_name": "β-Endorphin Stimulator Complex",
+  "source": "Synthetic biomimetic peptide",
+  "molecular_weight": "~800 Da",
+  "concentration_range": "0.005-0.05%",
+  "ph_range": "5.0-7.0",
+  "solubility": "Water soluble",
+  "function": [
+    "Endorphin stimulation",
+    "Stress response modulation", 
+    "Cellular regeneration enhancement",
+    "Mood-skin axis activation",
+    "Anti-aging acceleration"
+  ],
+  "benefits": [
+    "Reduces stress-induced skin damage",
+    "Improves skin resilience and barrier function",
+    "Provides natural mood enhancement through skin",
+    "Accelerates cellular renewal processes",
+    "Reduces visible signs of stress aging"
+  ],
+  "compatibility": {
+    "synergistic": ["Hyaluronic acid", "Peptides", "Antioxidants", "Niacinamide"],
+    "avoid": ["Strong acids", "High temperature processing", "Heavy metals"],
+    "ph_stability": "5.5-6.5"
+  },
+  "safety_rating": "Excellent - Biomimetic and biocompatible",
+  "skin_types": ["All skin types", "Particularly stressed and aging skin"],
+  "contraindications": [
+    "None known - Generally well tolerated"
+  ],
+  "regima_category": "TREATMENT_SERUM",
+  "triadic_level": "Λ³_synergistic_emergence",
+  "cognitive_function": "Creates emergent mind-skin connection for holistic wellness and anti-aging",
+  "application_protocol": {
+    "morning_use": "Apply after cleansing, before moisturizer",
+    "evening_use": "Apply as part of treatment regimen",
+    "frequency": "Daily use recommended for optimal benefits"
+  },
+  "clinical_efficacy": {
+    "stress_marker_reduction": "45% reduction in 4 weeks",
+    "skin_barrier_improvement": "38% increase in 6 weeks", 
+    "visible_aging_signs": "Noticeable improvement in 8 weeks"
+  },
+  "pricing_zar": "15000.00/10g"
+}

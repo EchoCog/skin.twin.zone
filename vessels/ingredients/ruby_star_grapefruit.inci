@@ -1,0 +1,37 @@
+// Ruby Star Grapefruit Extract - Key Ingredient from RégimA Cleansing Gel
+// INCI: Citrus Paradisi (Grapefruit) Fruit Extract
+{
+  "inci_name": "Citrus Paradisi (Grapefruit) Fruit Extract",
+  "common_name": "Ruby Star Grapefruit Extract",
+  "source": "Citrus paradisi fruit",
+  "concentration_range": "2.0-5.0%",
+  "ph_range": "3.5-5.0",
+  "solubility": "Water and ethanol soluble",
+  "function": [
+    "Natural antiseptic",
+    "Anti-bacterial",
+    "Anti-viral", 
+    "Toning and astringent"
+  ],
+  "benefits": [
+    "Antimicrobial action",
+    "Pore tightening effect",
+    "Reduces excess oil production",
+    "Natural fruit acid exfoliation"
+  ],
+  "compatibility": {
+    "synergistic": ["Bisabolol", "Plant extracts", "Glycolic acid"],
+    "avoid": ["Strong alkaline solutions", "Heavy oils"],
+    "ph_stability": "4.0-6.0"
+  },
+  "safety_rating": "GRAS",
+  "skin_types": ["Oily", "Combination", "Acne-prone"],
+  "contraindications": [
+    "Photosensitizing - use evening or with SPF",
+    "May cause irritation on very sensitive skin"
+  ],
+  "regima_category": "ZONE_TRAINING",
+  "triadic_level": "Λ¹_barrier_simulation",
+  "cognitive_function": "Cleanses and prepares skin barrier for optimal product penetration",
+  "pricing_zar": "320.00/100g"
+}
