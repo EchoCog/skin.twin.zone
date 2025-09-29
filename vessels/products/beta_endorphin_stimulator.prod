@@ -1,0 +1,162 @@
+// RégimA β-Endorphin Stimulator - Standalone Treatment Product
+// Wellbeing-inducing bioactive complex following RégimA Zone Concept principles
+{
+  "product_name": "β-Endorphin Stimulator",
+  "product_code": "REG-BES-SOLO-001",
+  "category": "TREATMENT_SERUM",
+  "regima_classification": "Zone Training - Mood-Skin Axis Treatment",
+  "triadic_level": "Λ³_synergistic_emergence",
+
+  "zone_concept_integration": {
+    "anti_inflammatory": "Modulates inflammatory response through endorphin pathways",
+    "antioxidant": "Enhances cellular antioxidant systems via wellbeing response",
+    "rejuvenation": "Accelerates skin regeneration through β-endorphin stimulation"
+  },
+
+  "core_technology": {
+    "active_complex": "Phyto-endorphin casticin complex",
+    "delivery_system": "Liposomal encapsulation",
+    "mechanism": "μ-opioid receptor binding and β-endorphin production stimulation",
+    "bioavailability": "Enhanced through liposomal delivery",
+    "target_cells": "Keratinocytes, fibroblasts, neural receptors in skin"
+  },
+
+  "formulation_profile": {
+    "base_type": "Lightweight serum with silky finish",
+    "ph_range": "5.5-6.5",
+    "viscosity": "Low to medium viscosity serum",
+    "absorption": "Rapid absorption, non-greasy",
+    "finish": "Silky, smoothed skin feel",
+    "color": "Clear to slightly amber"
+  },
+
+  "wellbeing_technology": {
+    "phyto_endorphin_source": "Mediterranean medicinal plant extract",
+    "receptor_binding": "Binds to μ-opioid receptors in skin",
+    "endorphin_stimulation": "Stimulates natural β-endorphin production",
+    "sensory_response": "Creates immediate sense of wellbeing upon application",
+    "mood_skin_axis": "Connects psychological wellbeing with skin health"
+  },
+
+  "active_concentration": {
+    "beta_endorphin_complex": "0.05%",
+    "supporting_peptides": "0.5%",
+    "skin_conditioners": "3.0%",
+    "humectants": "8.0%",
+    "delivery_enhancers": "2.0%"
+  },
+
+  "application_protocol": {
+    "timing": "Morning and/or evening after cleansing",
+    "amount": "2-3 drops for face and neck",
+    "technique": [
+      "Apply to clean, dry skin",
+      "Gently pat and press into skin",
+      "Allow 2-3 minutes for absorption",
+      "Follow with moisturizer if needed"
+    ],
+    "treatment_integration": [
+      "Can be layered under other treatments",
+      "Compatible with all RégimA products",
+      "Enhances efficacy of subsequent products"
+    ]
+  },
+
+  "cognitive_benefits": {
+    "immediate": [
+      "Sense of wellbeing upon application",
+      "Skin feels smoothed and refreshed",
+      "Instant moisturization effect",
+      "Stress relief through skin contact"
+    ],
+    "short_term": [
+      "Improved skin resilience to stress",
+      "Enhanced barrier function",
+      "Accelerated skin repair processes",
+      "Reduced stress-induced skin reactions"
+    ],
+    "long_term": [
+      "Improved skin firmness and elasticity",
+      "Reduced wrinkle depth and formation",
+      "Enhanced skin regeneration capacity",
+      "Sustained skin-mood wellness connection"
+    ]
+  },
+
+  "clinical_evidence": {
+    "wellbeing_response": "Measurable increase in comfort and satisfaction",
+    "skin_regeneration": "Accelerated wound healing in clinical studies",
+    "hydration_boost": "Significant improvement in skin hydration levels",
+    "wrinkle_reduction": "Notable reduction in wrinkle depth over 8 weeks",
+    "stress_markers": "Reduction in stress-related skin inflammatory markers"
+  },
+
+  "skin_type_benefits": {
+    "stressed_skin": "Reduces stress-induced damage and inflammation",
+    "aging_skin": "Provides anti-aging benefits through regeneration boost",
+    "sensitive_skin": "Gentle, soothing action without irritation",
+    "normal_skin": "Maintains optimal skin health and resilience",
+    "combination_skin": "Balances different zone needs effectively"
+  },
+
+  "incorporation_compatibility": {
+    "daily_protection": "Incorporated into Daily Ultra Defence, Sensorial Daily Protector",
+    "specialized_treatments": "Compatible with all Zone training products",
+    "standalone_use": "Effective as individual treatment serum",
+    "professional_treatments": "Can be used in spa and clinical settings"
+  },
+
+  "usage_scenarios": {
+    "daily_wellness": "Daily mood-skin wellness routine",
+    "stress_periods": "Enhanced protection during high-stress times",
+    "post_treatment": "Accelerated recovery after skincare procedures",
+    "preventive_care": "Proactive aging prevention with wellness benefits",
+    "therapeutic_use": "Support for stress-related skin conditions"
+  },
+
+  "safety_profile": {
+    "tolerance": "Excellent tolerance across all skin types",
+    "sensitization": "Very low sensitization potential",
+    "contraindications": "None known for topical application",
+    "pregnancy_safety": "Safe for use during pregnancy and nursing",
+    "age_suitability": "Suitable for all ages above 12 years"
+  },
+
+  "formulation_stability": {
+    "temperature_range": "5°C to 35°C stable",
+    "ph_stability": "Maintains 5.5-6.5 throughout shelf life",
+    "light_stability": "UV-stable formulation",
+    "microbial_stability": "Preserved with phenoxyethanol system",
+    "shelf_life": "36 months unopened, 12 months after opening"
+  },
+
+  "packaging_innovation": {
+    "primary_package": "Dark glass dropper bottle for ingredient protection",
+    "sizes": ["15ml treatment", "30ml standard"],
+    "dropper_design": "Precision dropper for controlled application",
+    "uv_protection": "Amber glass with UV-blocking properties"
+  },
+
+  "cost_structure": {
+    "active_ingredients": "R 125.00 per 30ml unit",
+    "specialty_packaging": "R 25.00 per unit",
+    "manufacturing": "R 35.00 per unit",
+    "total_cost": "R 185.00 per 30ml unit",
+    "retail_price": "R 750.00 per 30ml unit",
+    "margin": "75% gross margin"
+  },
+
+  "professional_recommendations": {
+    "dermatologist_endorsed": "Recommended for stress-skin management",
+    "therapist_favorite": "Popular in professional facial treatments",
+    "wellness_integration": "Bridges skincare and wellness practices",
+    "clinical_support": "Suitable for dermatological treatment support"
+  },
+
+  "sustainability_features": {
+    "natural_sourcing": "Plant-derived active complex",
+    "sustainable_extraction": "Environmentally responsible sourcing",
+    "recyclable_packaging": "Glass bottles are fully recyclable",
+    "cruelty_free": "No animal testing, wellness-focused development"
+  }
+}

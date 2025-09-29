@@ -1,0 +1,63 @@
+// Uvinul A Plus - Advanced UVA Filter from RégimA Manual 2020
+// INCI: Diethylamino Hydroxybenzoyl Hexyl Benzoate
+{
+  "inci_name": "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+  "common_name": "Uvinul A Plus",
+  "trade_name": "Uvinul A Plus",
+  "source": "Synthetic UV filter",
+  "molecular_weight": "397.5 Da",
+  "concentration_range": "2.0-10.0%",
+  "ph_range": "3.0-8.0",
+  "solubility": "Oil soluble",
+  "function": [
+    "UVA protection",
+    "Photostable broad spectrum filter",
+    "Free radical scavenging",
+    "Antioxidant protection enhancement",
+    "Photostabilization of other UV filters"
+  ],
+  "benefits": [
+    "95% reduction in free radical formation",
+    "Superior photostability compared to avobenzone",
+    "Enhances natural antioxidant defense systems",
+    "Covers long-wavelength UVA radiation",
+    "Synergistic with other UV filters"
+  ],
+  "compatibility": {
+    "synergistic": ["Uvinul T150", "Tinosorb S", "Zinc Oxide", "Titanium Dioxide"],
+    "avoid": ["Strong acids at high temperature", "Heavy metals"],
+    "ph_stability": "4.0-8.0"
+  },
+  "safety_rating": "Excellent - EU and FDA approved",
+  "skin_types": ["All skin types", "Particularly sensitive skin"],
+  "contraindications": [
+    "Known hypersensitivity to benzoate compounds"
+  ],
+  "regima_category": "DAILY_PROTECTION",
+  "triadic_level": "Λ²_adaptive_protection",
+  "cognitive_function": "Provides adaptive UV protection that responds to environmental challenges",
+  "application_protocol": {
+    "morning_use": "Apply 30 minutes before sun exposure",
+    "reapplication": "Every 2 hours during sun exposure",
+    "frequency": "Daily use in sun protection products"
+  },
+  "clinical_efficacy": {
+    "free_radical_reduction": "95% reduction vs unprotected skin",
+    "uva_protection": "Covers 320-400nm spectrum effectively",
+    "photostability": "Maintains protection for 8+ hours",
+    "self_tan_compatibility": "92% free radical reduction when used with self-tanning"
+  },
+  "formulation_notes": {
+    "optimal_concentration": "4.0-6.0% for SPF products",
+    "oil_phase_addition": "Add during oil phase at room temperature",
+    "temperature_limit": "Below 80°C during processing",
+    "storage_stability": "36 months in appropriate packaging"
+  },
+  "regulatory_status": {
+    "eu_approval": "Approved up to 10%",
+    "fda_approval": "Approved UV filter",
+    "australia_approval": "TGA approved",
+    "global_acceptance": "Widely accepted internationally"
+  },
+  "pricing_zar": "2850.00/kg"
+}

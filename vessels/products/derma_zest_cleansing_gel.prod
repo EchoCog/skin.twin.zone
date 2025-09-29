@@ -1,0 +1,181 @@
+// RégimA Derma Zest Cleansing + Toning Gel Product Profile
+// Advanced botanical cleansing system following RégimA Zone Concept principles
+{
+  "product_name": "Derma Zest Cleansing + Toning Gel",
+  "product_code": "REG-DZCT-001",
+  "category": "ZONE_TRAINING", 
+  "regima_classification": "Zone Training - Foundation Cleansing System",
+  "triadic_level": "Λ¹_barrier_simulation",
+
+  "zone_concept_integration": {
+    "anti_inflammatory": "Gentle cleansing without inflammatory disruption",
+    "antioxidant": "Protective botanicals prevent oxidative cleansing damage",
+    "rejuvenation": "Prepares skin for optimal treatment absorption"
+  },
+
+  "core_philosophy": {
+    "soap_free": "NO soap, NO alcohol formulation",
+    "low_foam": "Low foam ensures actives stay in contact with skin",
+    "botanical_synergy": "Abundance of renowned healing plants work synergistically",
+    "natural_toning": "Creates natural skin toning effect without alcohol",
+    "pore_tightening": "Helps tighten pores using plant-based astringents"
+  },
+
+  "formulation_profile": {
+    "base_type": "Fresh, low foam cleansing gel",
+    "ph_range": "5.1-5.3",
+    "texture": "Smooth gel with natural botanical film",
+    "foaming": "Minimal foam to preserve active contact",
+    "finish": "Clean, toned feeling without tightness",
+    "color": "Golden amber from natural botanicals"
+  },
+
+  "star_botanical_complex": {
+    "ruby_star_grapefruit": {
+      "concentration": "3.0%",
+      "functions": ["Anti-bacterial", "Anti-viral", "Toning", "Astringent effects"],
+      "benefits": "Natural antiseptic and pore-tightening action"
+    },
+    "bisabolol": {
+      "concentration": "0.5%", 
+      "functions": ["Anti-inflammatory", "Enhances active absorption", "Lightening effect"],
+      "benefits": "Soothes while improving product efficacy"
+    },
+    "geranium_extract": {
+      "concentration": "1.5%",
+      "functions": ["Balancing", "Astringent", "Anti-microbial"],
+      "benefits": "Natural skin balancing and purification"
+    },
+    "rosemary_extract": {
+      "concentration": "1.0%",
+      "functions": ["Antioxidant", "Stimulating", "Purifying"],
+      "benefits": "Energizes skin while providing antioxidant protection"
+    },
+    "lavender_extract": {
+      "concentration": "0.8%",
+      "functions": ["Calming", "Anti-inflammatory", "Balancing"],
+      "benefits": "Soothes and balances all skin types"
+    }
+  },
+
+  "main_functions": [
+    "Deep Cleansing without stripping",
+    "Natural Astringent - Tones and helps tighten pores using plants",
+    "NO Alcohol - maintains skin barrier integrity",
+    "Helps regulate sebaceous secretions",
+    "Anti-inflammatory and anti-oxidant action",
+    "Natural antiseptic effect from plants",
+    "Prepares skin for optimal treatment absorption"
+  ],
+
+  "application_protocol": {
+    "timing": "Morning and evening",
+    "preparation": "Apply to damp skin",
+    "technique": [
+      "Massage gently in circular motions",
+      "Allow botanical actives 30-60 seconds skin contact",
+      "Focus on areas with excess oil or congestion",
+      "Rinse thoroughly with lukewarm water"
+    ],
+    "post_cleansing": [
+      "Pat dry gently - skin should feel toned and prepared",
+      "Follow immediately with appropriate RégimA treatment products",
+      "Skin is now optimally prepared for active absorption"
+    ]
+  },
+
+  "skin_type_benefits": {
+    "oily_skin": "Regulates sebaceous secretions without over-drying",
+    "combination_skin": "Balances different zones effectively", 
+    "normal_skin": "Maintains optimal cleansing without disruption",
+    "sensitive_skin": "Gentle botanical action soothes while cleansing",
+    "congested_skin": "Natural astringents help clear and tighten pores",
+    "mature_skin": "Prepares skin for anti-aging treatments without irritation"
+  },
+
+  "cognitive_cleansing_benefits": {
+    "immediate": [
+      "Skin feels clean, refreshed, never tight",
+      "Natural toning effect visible immediately",
+      "Pores appear smaller and cleaner",
+      "Skin feels prepared and receptive"
+    ],
+    "progressive": [
+      "Improved pore appearance over 1-2 weeks",
+      "Better oil regulation and balance",
+      "Enhanced texture and clarity",
+      "Optimized skin barrier function"
+    ],
+    "cumulative": [
+      "Skin becomes more resilient and balanced",
+      "Improved response to treatment products",
+      "Naturally regulated sebaceous function",
+      "Healthier skin microbiome balance"
+    ]
+  },
+
+  "clinical_efficacy": {
+    "pore_appearance": "Visible improvement in pore size and clarity",
+    "oil_regulation": "Natural regulation without rebound oiliness",
+    "skin_barrier": "Maintains and strengthens barrier function",
+    "treatment_preparation": "Enhances absorption of subsequent products",
+    "tolerance": "Excellent tolerance across all skin types"
+  },
+
+  "usage_integration": {
+    "zone_training_foundation": "Essential first step in Zone concept routine",
+    "treatment_preparation": "Optimizes skin for serum and treatment absorption",
+    "daily_wellness": "Supports daily skin wellness and balance",
+    "professional_use": "Recommended pre-treatment cleanser in clinics"
+  },
+
+  "contraindications": {
+    "active_infections": "Avoid on actively infected skin areas",
+    "open_wounds": "Do not use on broken or severely irritated skin",
+    "citrus_sensitivity": "Patch test recommended for those sensitive to citrus"
+  },
+
+  "formulation_stability": {
+    "temperature_range": "15°C to 25°C optimal storage",
+    "ph_stability": "Maintains 5.2 ± 0.1 throughout shelf life",
+    "botanical_integrity": "Active botanicals remain potent for 24 months",
+    "color_stability": "Golden amber color maintained",
+    "microbial_safety": "Preserved with phenoxyethanol system"
+  },
+
+  "packaging_specifications": {
+    "primary_package": "Pump bottle for hygienic dispensing",
+    "sizes": ["150ml standard", "250ml value", "50ml travel"],
+    "material": "UV-protective bottle to preserve botanicals",
+    "pump_design": "Precise dosing pump for optimal amount"
+  },
+
+  "cost_structure": {
+    "botanical_actives": "R 45.00 per 150ml unit",
+    "base_formulation": "R 18.00 per unit",
+    "packaging": "R 12.00 per unit",
+    "total_cost": "R 75.00 per 150ml unit",
+    "retail_price": "R 285.00 per 150ml unit",
+    "margin": "74% gross margin"
+  },
+
+  "sustainability_features": {
+    "botanical_sourcing": "Sustainably sourced plant extracts",
+    "biodegradable_base": "Environmentally friendly surfactant system",
+    "recyclable_packaging": "Pump bottles are recyclable",
+    "water_conscious": "Concentrated formula reduces water usage"
+  },
+
+  "professional_recommendations": {
+    "dermatologist_approved": "Recommended for sensitive and problematic skin",
+    "esthetician_favorite": "Popular choice for professional facial protocols",
+    "daily_essential": "Foundation product for optimal skincare routine",
+    "treatment_prep": "Essential preparation for advanced treatments"
+  },
+
+  "awards_recognition": {
+    "industry_awards": "Recognized for innovative botanical cleansing",
+    "customer_satisfaction": "High customer loyalty and repeat purchase rates",
+    "professional_endorsements": "Widely endorsed by skincare professionals"
+  }
+}
