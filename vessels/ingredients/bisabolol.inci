@@ -1,0 +1,44 @@
+// Bisabolol - Anti-inflammatory and Lightening Agent from RégimA Formulations
+// INCI: Bisabolol
+{
+  "inci_name": "Bisabolol",
+  "common_name": "α-Bisabolol (Chamomile Extract)",
+  "source": "Matricaria chamomilla or synthetic",
+  "molecular_weight": "222.37 g/mol",
+  "concentration_range": "0.1-2.0%",
+  "ph_range": "4.0-7.0",
+  "solubility": "Oil soluble",
+  "function": [
+    "Anti-inflammatory",
+    "Skin lightening",
+    "Penetration enhancer",
+    "Anti-irritant",
+    "Anti-bacterial"
+  ],
+  "benefits": [
+    "Reduces skin inflammation and redness",
+    "Enhances absorption of other actives",
+    "Provides gentle lightening effect",
+    "Soothes sensitive and irritated skin",
+    "Antimicrobial protection"
+  ],
+  "compatibility": {
+    "synergistic": ["Ruby Star Grapefruit", "Plant extracts", "Hyaluronic acid"],
+    "avoid": ["Strong oxidizers", "High pH formulations"],
+    "ph_stability": "5.0-7.0"
+  },
+  "safety_rating": "Excellent - Well tolerated",
+  "skin_types": ["All skin types", "Especially sensitive and reactive"],
+  "contraindications": [
+    "Rare cases of contact sensitivity"
+  ],
+  "regima_category": "ZONE_TRAINING",
+  "triadic_level": "Λ²_adaptive_protection", 
+  "cognitive_function": "Provides adaptive anti-inflammatory response and enhances ingredient delivery",
+  "usage_concentration": {
+    "facial_products": "0.2-0.5%",
+    "body_products": "0.1-1.0%",
+    "sensitive_formulas": "0.1-0.3%"
+  },
+  "pricing_zar": "1250.00/100g"
+}
